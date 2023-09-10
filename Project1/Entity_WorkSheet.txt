@@ -1,0 +1,14 @@
+**Physical Objects:**
+- Building_Manager (ID, Name, Position)
+- Sensor (ID, Type_ID, Serial_Name, Location_ID)
+- Sensor_Type (ID, Type_Name)
+- AHU (ID, Brand, Serial_Name, Max_CFM_Capacity, Location_ID)
+
+**Locations:**
+- Building_Area (ID, Floor, Space_Name, Space_Purpose)
+
+**Business Transactions:**
+- Sensor_Maintenance_LOG (ID, Sensor_ID, Date, Maintenance_Description)
+- AHU_Maintenance_LOG (ID, AHU_ID, Date, Maintenance_Description)
+- AHU_Time_Series (ID, Timestamp, AHU_ID, Watt_Consumption)
+- Sensor_Time_Series (ID, Timestamp, SENSOR_ID, Measured_Value)

@@ -1,0 +1,2 @@
+I as building system manager want to monitor air handler energy consumption during day based and compare with sensor data.
+I as building system manager want to view maintenance log for each component in my building mechanical system.
