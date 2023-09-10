@@ -1,2 +1,6 @@
-I as building system manager want to monitor air handler energy consumption during day based and compare with sensor data.
-I as building system manager want to view maintenance log for each component in my building mechanical system.
+As a <user type>, I want to <some goal> so that I can <(optional) for some reason>
+1)As a building system manager I want to monitor air handler energy consumption during day based and compare with sensor data.
+2)As a building system manager I want to view maintenance log for each component in my building mechanical system.
+3)As a building system manager I want to view air handler systems installed.
+4)As a building system manager I want to view sensor systems installed.
+5)As a building system manager I want to view where the sensors are installed.
