@@ -82,6 +82,18 @@
           <AssociatedConnUserName />
           <FullPath>Week5_9.jpg</FullPath>
         </FileNode>
+        <FileNode Name="Week6.jpg">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Week6.jpg</FullPath>
+        </FileNode>
+        <FileNode Name="Week6Queries.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Week6Queries.txt</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
   </Items>
